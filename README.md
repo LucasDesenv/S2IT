@@ -4,13 +4,13 @@
 
 regras:
 
-* - O primeiro número de C é o primeiro número de A;
+- O primeiro número de C é o primeiro número de A;
 
-* - O segundo número de C é o primeiro número de B;
+- O segundo número de C é o primeiro número de B;
 
-* - O terceiro número de C é o segundo número de A;
+- O terceiro número de C é o segundo número de A;
 
-* - O quarto número de C é o segundo número de B;
+- O quarto número de C é o segundo número de B;
 
 Assim sucessivamente...
 
